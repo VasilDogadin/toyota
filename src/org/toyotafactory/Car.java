@@ -15,4 +15,5 @@ public abstract class Car {
     private ElectricalSystem electricalSystem;
     private Lights lights;
     private double price;
+
 }
